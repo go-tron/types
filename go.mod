@@ -3,7 +3,7 @@ module github.com/go-tron/types
 go 1.19
 
 require (
-	github.com/go-tron/base-error v1.0.0
+	github.com/go-tron/base-error v1.0.2
 	github.com/thoas/go-funk v0.9.3
 )
 

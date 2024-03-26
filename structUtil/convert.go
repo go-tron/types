@@ -3,7 +3,7 @@ package structUtil
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/go-tron/types-util/stringUtil"
+	"github.com/go-tron/types/stringUtil"
 	"github.com/thoas/go-funk"
 	"reflect"
 	"sort"
