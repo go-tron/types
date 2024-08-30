@@ -2,6 +2,8 @@ github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-tron/base-error v1.0.0 h1:oPcqZOYUyShFfMBXYMgjcvMwyuJPsM0cCS126e/8yV4=
 github.com/go-tron/base-error v1.0.0/go.mod h1:TVV7i0UkqTQA1j4j8u0sORfTOA19oAurw4UkNF+jPbI=
+github.com/go-tron/base-error v1.0.2 h1:s8AAmxCYzcUJN28mIoF1fTrhkxihXCJzUx89rT+2unc=
+github.com/go-tron/base-error v1.0.2/go.mod h1:Tk1KDlx21R0cGvRJcOR+E2h12n2g2EUKfugRx6QHpeI=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
